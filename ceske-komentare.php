@@ -3,7 +3,7 @@
  * České komentáře
  *
  * @package   Ceske_komentare
- * @author    Petr Baloun
+ * @author    FeniXx
  * @license   GPL-2.0+
  * @link      https://github.com/fenix11/ceske-komentare
  */
