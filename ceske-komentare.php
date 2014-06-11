@@ -3,7 +3,7 @@
  * České komentáře
  *
  * @package   Ceske_komentare
- * @author    FeniXx
+ * @author    Petr Baloun
  * @license   GPL-2.0+
  * @link      https://github.com/fenix11/ceske-komentare
  */
@@ -11,9 +11,8 @@
 /*
 Plugin Name:       České komentáře
 Plugin URI:        https://github.com/fenix11/ceske-komentare
-Description:       A plugin to automatically update GitHub or Bitbucket hosted plugins and themes into WordPress. Plugin class based upon <a href="https://github.com/codepress/github-plugin-updater">codepress/github-plugin-updater</a>. Theme class based upon <a href="https://github.com/WordPress-Phoenix/whitelabel-framework">Whitelabel Framework</a> modifications.
-Version:           1.1
-Author:            FeniXx
+Description:       Plugin převede všechny řetězce, kde se nachází slovo komentář do správného pádu. v 1.1 Lze nastavit vlastní řetězce.
+Author:            Petr Baloun
 Author URI:        http://blog.doprofilu.cz
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
