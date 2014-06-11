@@ -1,8 +1,8 @@
 <?php
 /**
- * GitHub Updater
+ * České komentáře
  *
- * @package   GitHub_Updater
+ * @package   Ceske_komentare
  * @author    Andy Fragen
  * @license   GPL-2.0+
  * @link      https://github.com/fenix11/ceske-komentare
