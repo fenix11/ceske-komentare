@@ -1,9 +1,9 @@
 <?php
 /**
- * GitHub Updater
+ * Ceske komentare
  *
- * @package   GitHub_Updater
- * @author    Andy Fragen
+ * @package   Ceske_Komentare
+ * @author    fenixxn
  * @license   GPL-2.0+
  * @link      https://github.com/fenix11/ceske-komentare
  */
