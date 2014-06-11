@@ -1,12 +1,25 @@
 <?php
+/**
+ * GitHub Updater
+ *
+ * @package   GitHub_Updater
+ * @author    Andy Fragen
+ * @license   GPL-2.0+
+ * @link      https://github.com/fenix11/ceske-komentare
+ */
+
 /*
-Plugin Name: České komentáře
-Plugin URI: http://blog.doprofilu.cz
-Description: Plugin převede všechny řetězce, kde se nachází slovo komentář do správného pádu. v 1.1 Lze nastavit vlastní řetězce.
-Version: 1.1
-License: GPL
-Author: FeniXx
-Author URI: http://blog.doprofilu.cz
+Plugin Name:       České komentáře
+Plugin URI:        https://github.com/fenix11/ceske-komentare
+Description:       A plugin to automatically update GitHub or Bitbucket hosted plugins and themes into WordPress. Plugin class based upon <a href="https://github.com/codepress/github-plugin-updater">codepress/github-plugin-updater</a>. Theme class based upon <a href="https://github.com/WordPress-Phoenix/whitelabel-framework">Whitelabel Framework</a> modifications.
+Version:           1.1
+Author:            Andy Fragen
+License:           GNU General Public License v2
+License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+Domain Path:       /languages
+Text Domain:       ceske-komentare
+GitHub Plugin URI: https://github.com/fenix11/ceske-komentare
+GitHub Branch:     master
 */
 // If this file is called directly, abort.
 if ( ! defined( 'WPINC' ) ) {
