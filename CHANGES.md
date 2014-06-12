@@ -1,6 +1,6 @@
-### ChangeLog for GitHub Updater
+### Změny v pluginu České komentáře
 
-#### 2.7.1
+#### 2.0
 
 * added early exit if no local `CHANGES.md` file exists. This should save an API call.
 
