@@ -1,1 +1,1 @@
-~Current Version:1.7~
+Zde je popis pluginu, který vám radí jak ho použít
