@@ -8,7 +8,7 @@ Author:            fenixx
 Author URI:        http://blog.doprofilu.cz
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html
-Domain Path:       /languages
+Domain Path:       /jazyky
 Text Domain:       ceske-komentare
 GitHub Plugin URI: https://github.com/fenix11/ceske-komentare
 GitHub Branch:     master
