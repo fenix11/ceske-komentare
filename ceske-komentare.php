@@ -30,6 +30,18 @@ if ( is_admin() && ( ! defined( 'DOING_AJAX' ) || ! DOING_AJAX ) ) {
 	}
 }
 
+function komentare_meta( $links, $file ) { // Add a link to this plugin's settings page
+	static $this_plugin;
+	if(!$this_plugin) $this_plugin = plugin_basename(__FILE__);
+	if($file == $this_plugin) {
+		$settings_link = '<a href="admin.php?page=nastaveni">'.__('Nastavení', 'ceske-komentare').'</a>';	
+		array_unshift($links, $settings_link);
+	}
+	return $links; 
+}
+
+add_filter('plugin_row_meta','komentare_meta', 10, 2);	
+
 function pridat() {
     // Activation code here...
 	add_option( 'pocet0', 'Žádný komentář', '', 'yes' );
