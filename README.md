@@ -1,4 +1,4 @@
-# Plugin Name #
+# České komentáře #
 **Contributors:** FeniXx
   
 **Donate link:** http://blog.doprofilu.cz
