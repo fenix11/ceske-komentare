@@ -9,7 +9,7 @@
   
 **Tested up to:** 3.9.1
   
-**Stable tag:** 1.0
+**Stable tag:** 1.1
   
 **License:** GPLv2 or later
   
@@ -21,6 +21,7 @@ Tento plugin, se postará o správně skloňování komontářů na vašem webu.
 ## Description ##
 
 Po aktivaci pluginu se vám správně opraví skloňování komentářů, které je ve 4 různých tvarech.
+V administraci pluginu, si můžete nastavit i své vlastní řetězce, které se po uložení budou zobrazovat na vašem webu.
 
 ## Installation ##
 
