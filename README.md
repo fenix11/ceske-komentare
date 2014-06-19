@@ -1,5 +1,5 @@
 # Plugin Name #
-**Contributors:** (this should be a list of wordpress.org userid's)
+**Contributors:** FeniXx
   
 **Donate link:** http://blog.doprofilu.cz
   
