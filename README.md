@@ -1,29 +1,29 @@
 # České komentáře #
-**Contributors:** FeniXx
+**Tvůrce:** FeniXx
   
-**Donate link:** http://blog.doprofilu.cz
+**Web autora:** http://blog.doprofilu.cz
   
 **Tags:** české komentáře,počeštení komentářů wordpress,
   
-**Requires at least:** 3.8.1
+**Funkční na:** 3.8.1
   
-**Tested up to:** 3.9.1
+**Testováno na:** 3.9.1
   
-**Stable tag:** 1.0
+**Aktuální verze pluginu:** 1.0
   
-**License:** GPLv2 or later
+**Licence:** GPLv2 or later
   
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
+**Licence URI:** http://www.gnu.org/licenses/gpl-2.0.html
   
 
 Tento plugin, se postará o správně skloňování komontářů na vašem webu.
 
-## Description ##
+## Popis ##
 
 Po aktivaci pluginu se vám správně opraví skloňování komentářů, které je ve 4 různých tvarech.
 V administraci pluginu, si můžete nastavit i své vlastní řetězce, které se po uložení budou zobrazovat na vašem webu.
 
-## Installation ##
+## Instalace ##
 
 Postup ruční instalace:
 
