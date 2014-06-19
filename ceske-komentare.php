@@ -18,6 +18,19 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
+// Load base classes and Launch
+if ( is_admin() && ( ! defined( 'DOING_AJAX' ) || ! DOING_AJAX ) ) {
+	if ( ! class_exists( 'GitHub_Updater' ) ) {
+		require_once 'includes/class-github-updater.php';
+		require_once 'includes/class-github-api.php';
+	}
+	if ( ! class_exists( 'GitHub_Plugin_Updater' ) ) {
+		require_once 'includes/class-plugin-updater.php';
+		new GitHub_Plugin_Updater;
+	}
+}
+
+function pridat() {
     // Activation code here...
 	add_option( 'pocet0', 'Žádný komentář', '', 'yes' );
 	add_option( 'pocet1', '1 komentář', '', 'yes' );
