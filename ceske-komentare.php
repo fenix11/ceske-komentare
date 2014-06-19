@@ -2,8 +2,8 @@
 /*
 Plugin Name:       České komentáře
 Plugin URI:        https://github.com/fenix11/ceske-komentare
-Description:       A plugin to automatically update GitHub or Bitbucket hosted plugins and themes into WordPress. Plugin class based upon <a href="https://github.com/codepress/github-plugin-updater">codepress/github-plugin-updater</a>. Theme class based upon <a href="https://github.com/WordPress-Phoenix/whitelabel-framework">Whitelabel Framework</a> modifications.
-Version:           2.3
+Description:       Plugin automaticky správně nastaví skloňování českých komentářů na webu.
+Version:           1.0
 Author:            fenixx
 Author URI:        http://blog.doprofilu.cz
 License:           GNU General Public License v2
