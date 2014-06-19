@@ -18,17 +18,15 @@ if ( ! defined( 'WPINC' ) ) {
 	die;
 }
 
-function ceske_komentare($output, $number ){
-global $pocet0,$pocet1,$pocet2,$pocet5;
-if ( $number == 0) $output = $pocet0;
+function ceske_komentare($output, $number){ if ( $number == 0) $output = 'Žádný komentář';
 elseif ($number == 1 )
-$output = str_replace('%', number_format_i18n($number), $pocet1);
+$output = str_replace('%', number_format_i18n($number), '% komentář');
 elseif ($number > 1  and $number < 4 )
-$output = str_replace('%', number_format_i18n($number), $pocet2);
+$output = str_replace('%', number_format_i18n($number), '% komentáře');
 else
-$output = str_replace('%', number_format_i18n($number), $pocet5);
+$output = str_replace('%', number_format_i18n($number), '% komentářů');
 
-return $output; } 
+return $output; }
 
 
 add_action('comments_number', 'ceske_komentare', 10, 2);
