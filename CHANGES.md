@@ -1,5 +1,10 @@
 ### Změny v pluginu České komentáře
 
+#### 1.1.2
+
+* Opraveno pád drobných chybných přepisů.
+
+
 #### 1.1.1
 
 * Přidán odkaz na administraci do administrace pluginů.
