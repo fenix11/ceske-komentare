@@ -3,7 +3,7 @@
 Plugin Name:       České komentáře
 Plugin URI:        https://github.com/fenix11/ceske-komentare
 Description:       Plugin automaticky správně nastaví skloňování českých komentářů na webu.
-Version:           1.1.1
+Version:           1.1.2
 Author:            fenixx
 Author URI:        http://blog.doprofilu.cz
 License:           GNU General Public License v2
