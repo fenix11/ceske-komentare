@@ -9,7 +9,7 @@
   
 **Testováno na:** 3.9.1
   
-**Aktuální verze pluginu:** 1.1.1
+**Aktuální verze pluginu:** 1.1.2
   
 **Licence:** GPLv2 or later
   
